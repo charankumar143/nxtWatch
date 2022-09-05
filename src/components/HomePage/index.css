@@ -1,0 +1,40 @@
+.bg-dark {
+  background-color: #181818;
+  height: 100vh;
+}
+.bg-light {
+  background-color: white;
+  height: 100vh;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  height: 20px;
+  margin-top: 25px;
+  margin-left: 10px;
+  border: none;
+}
+.profile-icon {
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+}
+.link-icon {
+  margin-right: 20px;
+}
+.nav-container {
+  margin: 20px;
+}
+.top-container {
+  display: flex;
+  flex-direction: row;
+}
+.deal-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  height: 30vh;
+  margin-left: 50px;
+  margin-top: 10px;
+}

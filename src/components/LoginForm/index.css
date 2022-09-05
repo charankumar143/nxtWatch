@@ -1,0 +1,13 @@
+.button-item {
+  background-color: skyblue;
+  color: #ffffff;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+}
+.image-icon {
+  height: 70px;
+  width: 170px;
+  align-items: center;
+}
